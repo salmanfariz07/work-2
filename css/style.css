@@ -196,6 +196,16 @@ color: rgb(7, 107, 124);
     width:20px;
     height: 20px;
 }
+.contact{
+    padding: 15px 10px;
+}
+.contact:hover{
+    background-color: white;
+    border-radius: 30px;
+    scale: 1.2;
+    color: black;
+    transition: .4s;
+}
 @media (min-width:50px) and (max-width:575.98px){
     .gallery
     {
